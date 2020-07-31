@@ -1,10 +1,3 @@
-
-
-def parrot (default = "Squawk!")
-  phrase = "Pretty bird!"
-  puts phrase
-end
-
 def parrot (default = "Squawk!")
   phrase = "Pretty bird!"
   puts phrase
